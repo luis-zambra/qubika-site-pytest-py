@@ -44,7 +44,8 @@ Once all the dependencies are installed the framework is ready to use, run the f
 ```sh
 pytest -v src/tests
 ```
-This will create an instance of Google Chrome that will run the test
+This will create an instance of Google Chrome that will run the test, the result will show as following.
+<img width="1101" alt="Image" src="https://github.com/user-attachments/assets/5b39f088-5b2c-493f-a091-68fe532aaf9e" />
 
 ## Solution explanation and enhancements
 
