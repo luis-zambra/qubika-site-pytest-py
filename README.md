@@ -45,7 +45,7 @@ Once all the dependencies are installed the framework is ready to use, run the f
 pytest -v src/tests
 ```
 This will create an instance of Google Chrome that will run the test, the result will show as following.
-<img width="1101" alt="Image" src="https://github.com/user-attachments/assets/5b39f088-5b2c-493f-a091-68fe532aaf9e" />
+<img width="1086" alt="Image" src="https://github.com/user-attachments/assets/f9b9a99e-bd65-406c-8d68-8bab5a315fba" />
 
 ## Solution explanation and enhancements
 
