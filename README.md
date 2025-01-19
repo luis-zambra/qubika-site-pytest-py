@@ -54,4 +54,4 @@ The framework relies on the page object pattern to define the pages that will be
 Some improvements that can be made to enhance the solution:
 - The selector strategy for searching for elements relies heavily in robustness with what is available in the DOM. The ideal option for each selector would be having custom test tags only to be used for test automation, as ids may change dynamically and other types of selectors are not as reliable.
 
-- As per what was required in the exercise, the expected behavior of the first name field was to be marked in red when submitting without filling it. The same behavior is expected for the email field. However this was not seen when running the tests, instead said field behaved as the other required fields, thus this behavior was not covered.
+- As per what was required in the exercise, the expected behavior of the first name field was to be marked in red when submitting without filling it. The same behavior is expected for the email field. However this was not noticed when running the tests as said fields behaved as the other required fields, thus this behavior was not covered.
